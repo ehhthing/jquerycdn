@@ -21,7 +21,7 @@ Please note that all of these are minified versions of jquery
 
 ### 301 Redirect to Google jquery CDN ending in .js
 
-You can use any string of characters, for example [g.jqry.tk/hahathislinkisreallylong.js]() = [g.jqry.tk/j.js]()
+You can use any string of characters, for example [g.jqry.tk/hahathislinkisreallylong.js](https://g.jqry.tk/hahathislinkisreallylong.js) = [g.jqry.tk/j.js](https://g.jqry.tk/j.js)
 
 Please note that subdomains are not automatically redirected to https while non-subdomains are.
 
