@@ -1,23 +1,62 @@
-# jquerycdn: the easy to remember jquery cdn. 
+# jquerycdn: the easy to remember jquery cdn.
+Please note that all of these are minified versions of jquery
 
-### Main CDN:
+### Main CDN (does a 301 redirect to javascript file):
 
-<a href="https://jqry.tk">jqry.tk</a>
+jqry.tk
 
-### Ending in .js CDN
+### Ending in .js CDN (Main redirects to this)
 
-<a href="https://jqry.tk/j.js">jqry.tk/j.js</a>
+jqry.tk/j.js
+
+(See bottom for alternative names)
 
 ### No 301 redirect CDN (so no auto redirect, works both https:// and http://)
 
-<a href="http://n.jqry.tk">n.jqry.tk</a>
+n.jqry.tk
 
 ### 301 Redirect to Google jquery CDN
 
-<a href="https://g.jqry.tk/">g.jqry.tk</a>
+g.jqry.tk
 
 ### 301 Redirect to Google jquery CDN ending in .js
 
-You can use any string of characters, for example <a href="https://g.jqry.tk/hahathislinkisreallylong.js">g.jqry.tk/hahathislinkisreallylong.js</a> = <a href="https://g.jqry.tk/j.js">g.jqry.tk/j.js</a>
+You can use any string of characters, for example g.jqry.tk/hahathislinkisreallylong.js = g.jqry.tk/j.js
 
-Please note that subdomains are not automatically redirected to https while non-subdomains are, further
+Please note that subdomains are not automatically redirected to https while non-subdomains are.
+
+### Alternatives to /j.js
+
+jqry.tk/jquery.js
+
+jqry.tk/jquery.min.js (all of the others are minified anyway!)
+
+jqry.tk/jq.js
+
+jqry.tk/jqry.js
+
+jqry.tk/jq.js
+
+jqry.tk/jry.js
+
+jqry.tk/js.js
+
+jqry.tk/jqq.js
+
+I am not affiliated with the jQuery Foundation and do not own jQuery, jQuery is (c) jQuery Foundation.
+
+### By using this service, you must agree to:
+
+a) Not hold me liable to whatever damage this may cause (I really cant think of any damages that this could cause)
+
+b) Not hold me liable for the uptime of this website.
+
+c) Not hold me liable for anything related to this website.
+
+d) Not DDoS this website.
+
+e) Not affliate me with jQuery Foundation
+
+f) Not affliate me with anything.
+
+g) Use it well (this one is optional although highly recommended)
